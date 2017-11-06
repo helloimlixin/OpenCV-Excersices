@@ -1,5 +1,6 @@
 """
 @author: xinli
+Folder paths should be modified accordingly when running
 """
 
 import cv2
