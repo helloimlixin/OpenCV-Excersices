@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Mon Nov  6 15:07:23 2017
-
 @author: xinli
 """
 
