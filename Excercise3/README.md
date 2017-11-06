@@ -1,2 +1,2 @@
 
-This is the folder for Excercise 3. 
+This is the folder for Exercise 3. 
